@@ -1,6 +1,6 @@
 fast-mentalAr
 =============
-Compile it on a Linux or Windows machine. Probably works on Mcs too, although I haven't checked. 
+Compile it on a Linux or Windows machine. Probably works on Macs too, although I haven't checked. 
 Once compiled, run the executable and just train until you feel ready. 
 Test is timed and you have 8 minutes to answer as many questions as you can.
 The goal is to get more than 54 points, as in the test from Optiver.
