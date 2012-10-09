@@ -1,6 +1,5 @@
-
 //============================================================================
-// Name        : fastmentalAr.cpp
+// Name        : fast_mentalAr.cpp
 // Author      : John-David Wuarin
 // Copyright (c) 2012 John-David Wuarin
 // Permission is hereby granted, free of charge, to any person obtaining a copy
