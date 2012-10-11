@@ -9,5 +9,12 @@ The goal is to get more than 54 points, as in the test from Optiver.
 The test is fairly similar, it might be slightly harder, but only slightly. 
 All the types of questions that may arise in the Optiver test are coded in the simulation and can come up. 
 The code itself is not the prettiest or most optimal. 
-I didn't spend much time fine tuning it, but it gets the job done. 
-If you want to train for the test, this is probably one of the better ways to go.
+I didn't spend much time fine tuning it, but it gets the job done.
+Also, I have no intentions on expanding the code or cleaning it or making it more
+efficient. I don't actually intend on putting any more work in the program in any
+way or form. 
+All the question types that may arize (that I have seen, I assure nothing) have been 
+coded, and there should (I emphasize the "should here", as one can never be sure) be no
+surprise.
+Anyway, I believe that if you want to train for the test, this is probably one of the 
+better ways to go.
